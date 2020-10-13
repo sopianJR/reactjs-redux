@@ -1,11 +1,81 @@
 {
-  "posts": [
+	"users" : [
     {
       "id": 1,
-      "title": "hello"
+      "nama": "sopian",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 2,
+      "nama": "boim",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 3,
+      "nama": "nahwan",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 4,
+      "nama": "agus",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 5,
+      "nama": "oji",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 6,
+      "nama": "saleh",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 7,
+      "nama": "nita",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 8,
+      "nama": "maman",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 9,
+      "nama": "dian",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 10,
+      "nama": "santi",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
+    },
+    {
+      "id": 11,
+      "nama": "fabian",
+      "alamat": "pandeglang",
+      "umur": 20,
+      "nohp": "085711844152",
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
